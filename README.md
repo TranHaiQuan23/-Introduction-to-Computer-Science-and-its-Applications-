@@ -1,2 +1,2 @@
-# CSY1
+# Repository name
 Introduction to Computer Science and its Applications
