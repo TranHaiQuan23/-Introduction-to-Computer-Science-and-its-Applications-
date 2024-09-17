@@ -1,2 +1,2 @@
-# Introduction of Computer Science and its Applications
+# Introduction to Computer Science and its Applications
 
