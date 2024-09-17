@@ -1,2 +1,2 @@
-# Repository name
-Introduction to Computer Science and its Applications
+# Introduction of Computer Science and its Applications
+
